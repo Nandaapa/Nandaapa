@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daffa Nanda Prasetya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+🔭 I’m currently studying on SMK Telkom Malang<br>🌱 I’m currently learning Laravel, Vue<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
